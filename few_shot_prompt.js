@@ -11,5 +11,3 @@ function toCamelCase(str) {
     })
     .join('');
 }
-
-// ...existing code...
